@@ -1,0 +1,7 @@
+1:1  KW_LET  let
+1:10  IDENTIFIER  x
+2:1  KW_INT  int
+3:28  IDENTIFIER  y
+4:1  KW_PRINT  print
+4:24  IDENTIFIER  z
+SUMMARY N=6 E=0

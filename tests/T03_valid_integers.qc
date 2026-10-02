@@ -1,0 +1,3 @@
+0 7 000123
+0x0 0XFF 0xAbCd 0XaBcD
+-42 +17 -0x2A +0X0f

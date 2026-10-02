@@ -1,0 +1,13 @@
+1:1  STRING_BEGIN  "
+1:2  STRING_TEXT  hello\world
+1:13  STRING_END  "
+2:1  STRING_BEGIN  "
+2:2  STRING_TEXT  hello\
+2:8  STRING_END  "
+3:1  STRING_BEGIN  "
+3:2  STRING_TEXT  // not comment
+3:16  STRING_END  "
+4:1  STRING_BEGIN  "
+4:2  STRING_TEXT  /* not comment */
+4:19  STRING_END  "
+SUMMARY N=12 E=0

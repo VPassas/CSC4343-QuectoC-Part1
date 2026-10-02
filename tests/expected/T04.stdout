@@ -1,0 +1,7 @@
+1:6  KW_LET  let
+2:4  KW_PRINT  print
+3:7  KW_WHILE  while
+4:8  SEMICOLON  ;
+5:5  KW_FOR  for
+6:7  KW_IF  if
+SUMMARY N=6 E=6

@@ -1,0 +1,9 @@
+1:1  KW_LET  let
+1:5  IDENTIFIER  alpha
+2:1  KW_INT  int
+2:5  IDENTIFIER  beta
+3:1  KW_PRINT  print
+3:7  IDENTIFIER  gamma
+4:1  KW_WHILE  while
+4:7  IDENTIFIER  delta
+SUMMARY N=8 E=0

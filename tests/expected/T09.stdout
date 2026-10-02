@@ -1,0 +1,5 @@
+1:1  STRING_BEGIN  "
+1:2  STRING_TEXT  hello
+2:1  KW_LET  let
+2:5  IDENTIFIER  x
+SUMMARY N=4 E=1
